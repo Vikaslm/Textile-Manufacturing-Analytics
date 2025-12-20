@@ -18,6 +18,8 @@ To innovate and optimize garment manufacturing processes by using data-driven in
 •	Improve customer satisfaction
 
 •	Drive long-term sustainable growth and profitability
+## Dataset
+This Project uses following [Dataset](https://github.com/Vikaslm/Textile-Manufacturing-Analytics/blob/main/data/Manufacturing%20Analytics%20cleaned.xlsx)
 ## 📊 Key Performance Indicators (KPIs)
 The following KPIs were analyzed to evaluate manufacturing performance:
 
@@ -48,7 +50,7 @@ Tableau <img width="1268" height="644" alt="Tableau Dashboard" src="https://gith
 •	Data Processing: 
 Excel <img width="1498" height="685" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/1e852fad-f94c-4220-8bb2-1f266d0d2a05" />
 
-SQL [Queries](https://github.com/Vikaslm/Textile-Manufacturing-Analytics/blob/main/Manufacturing%20SQL.sql)
+SQL [Queries](https://github.com/Vikaslm/Textile-Manufacturing-Analytics/blob/main/sql/Manufacturing%20SQL.sql)
 ## 🔍 Key Insights & Summary
 •	10-11-2015 recorded the highest manufactured quantity at 9,252,803 units, which was 1,052.74% higher than 12-11-2015, the lowest production day (802,677 units).
 
